@@ -38,22 +38,6 @@ You can also give this repository a star to show more people and they can use th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" height="60" alt="Prisma"/>
 </div>
 
-## 🙋‍♂️ Connect With Me
-
-[<img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />](https://github.com/Kenil11)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="60" height="60" alt="linkedin"  />](https://www.linkedin.com/in/kenil-panchal-220066253/)
-[<img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />](https://www.instagram.com/kenil2205/)&nbsp;
 
 
-## 🗒️ Authors
-- Kenil Panchal
 
-<p align="left">
-    <a href="https://github.com/Kenil11">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-    </a>
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/di6bxoes0/image/upload/v1742032837/txqjv0uxwb64h3lrhywc.webp" alt="Kenil's Logo Image" width="700"/>
-</p>
